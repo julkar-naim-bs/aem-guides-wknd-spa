@@ -13,7 +13,7 @@ If you just want to build the **finished** version of each project:
 #### React
 
 ```shell
-$ git clone git@github.com:adobe/aem-guides-wknd-spa.git
+$ git clone git@github.com:julkar-naim-bs/aem-guides-wknd-spa.git
 $ cd aem-guides-wknd-spa
 $ git checkout React/latest
 $ mvn clean install -PautoInstallSinglePackage
